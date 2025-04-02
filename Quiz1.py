@@ -1,3 +1,7 @@
+# Author: Qin Siyuan
+# Date: 2025-04-02
+# Description: This is a simple quiz game
+
 # NUIST Quiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
